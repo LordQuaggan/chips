@@ -5,6 +5,8 @@ public class Potato {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Chips");
+		
+		System.out.println("and Dale.");
 	}
 
 }
